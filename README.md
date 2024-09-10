@@ -59,7 +59,7 @@ Subject: [Subject Name] - Average: [Average Grade]
 ```
 
 ## Contributing
-This project is part of a school assignment. Contributions may be limited, but feel free to fork the project for your own use or study.
+This project is part of a self learning assignment. 
+Contributions may be limited, but feel free to fork the project for your own use or study.
 
-## License
-[Include appropriate license information here]
+
